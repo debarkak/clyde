@@ -1,3 +1,6 @@
+> [!Note]  
+> this repo is archived and now merged to the new ClydeReborn project (https://github.com/ClydeReborn). This repo might wont work and wont be updated.
+
 # Clyde
 Recreation of Discord's cancelled AI Bot, Clyde.
 
